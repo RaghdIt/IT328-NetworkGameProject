@@ -73,13 +73,8 @@ To run the game, you will need a Java Development Kit (JDK) installed.
     ```bash
     java SERVER
     ```
-3.  **Run Clients:** Open separate terminals/command prompts for each client. You should run one client per player[cite: 8].
+3.  **Run Clients:** Open separate terminals/command prompts for each client. You should run one client per player.
     ```bash
     java GAME
     ```
 
-
-## Evaluation Notes
-
-* Each group member has a thorough understanding of every detail in the project and can answer questions regarding the evaluation[cite: 8].
-* Cheating or copying solutions is strictly prohibited and will result in zero grades for all involved teams[cite: 8].
