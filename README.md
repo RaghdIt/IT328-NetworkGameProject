@@ -67,23 +67,17 @@ To run the game, you will need a Java Development Kit (JDK) installed.
 
 1.  **Compile:** Compile all Java source files for both the server and client components.
     ```bash
-    javac YourServerFile.java YourClientFile.java ...
+    javac SERVER.java GAME.java ...
     ```
 2.  **Run Server:** Start the server application first.
     ```bash
-    java YourServerClass
+    java SERVER
     ```
 3.  **Run Clients:** Open separate terminals/command prompts for each client. You should run one client per player[cite: 8].
     ```bash
-    java YourClientClass
+    java GAME
     ```
-    * For a group of 3 students, you would typically run 4 separate PCs/instances: one for the server and three for the clients[cite: 8].
 
-## Project Team
-
-* [Your Name/Team Member 1]
-* [Your Name/Team Member 2]
-* [Your Name/Team Member 3]
 
 ## Evaluation Notes
 
